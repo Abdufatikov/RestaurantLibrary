@@ -17,6 +17,7 @@ namespace RestoranConsoleApp
             order.AddItem("Pizza", 12.50m);
             order.AddItem("Salad", 5.75m);
             order.AddItem("Soda", 2.50m);
+            order.AddItem("Soda1", 5.50m);
 
             // Печатаем детали заказа
             order.PrintOrderDetails();
